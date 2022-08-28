@@ -1,0 +1,13 @@
+.select {
+	font-size: 14px;
+	background-color: floralwhite;
+	padding: 8px 15px;
+	border: 1px solid #1414ce;
+	width: 100%;
+}
+
+@media (min-width: 480px) {
+	.select {
+		font-size: 16px;;
+	}
+}

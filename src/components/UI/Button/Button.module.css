@@ -1,0 +1,13 @@
+.btn {
+	font-size: 16px;
+	background-color: floralwhite;
+	padding: 8px 15px;
+	border: 1px solid #1414ce;
+	cursor: pointer;
+}
+
+@media (min-width: 480px) {
+	.btn {
+		padding: 8px 25px;
+	}
+}

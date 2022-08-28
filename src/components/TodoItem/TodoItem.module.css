@@ -1,0 +1,42 @@
+li:not(:last-child) {
+	margin: 0 0 10px 0;
+}
+
+.todoItem {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px 20px;
+	font-size: 18px;
+	background: #fff;
+	/* border: 1px solid black; */
+	user-select: none;
+	cursor: pointer;
+}
+
+.todoItem h4 {
+	user-select: text;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.todoItem button {
+	margin: 0 0 0 8px;
+}
+
+@media (min-width: 480px) {
+	.todoItem button {
+		margin: 0 0 0 15px;
+	}
+}
+
+.completed {
+	padding: 10px 20px;
+	background: #c9aee3;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.completed h4 {
+	text-decoration: line-through;
+}

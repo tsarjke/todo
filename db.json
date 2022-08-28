@@ -1,0 +1,94 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "completed": true,
+      "date": 1660555811480
+    },
+    {
+      "id": 2,
+      "title": "Do homework",
+      "completed": false,
+      "date": 1660555822480
+    },
+    {
+      "id": 3,
+      "title": "Repay the debt",
+      "completed": false,
+      "date": 1660555731480
+    },
+    {
+      "id": 4,
+      "title": "Buy bread",
+      "completed": true,
+      "date": 1660555814480
+    },
+    {
+      "id": 5,
+      "title": "Wash dishes",
+      "completed": false,
+      "date": 1660555825480
+    },
+    {
+      "id": 6,
+      "title": "To let the dog out",
+      "completed": false,
+      "date": 1660555826480
+    },
+    {
+      "id": 7,
+      "title": "Take garbage",
+      "completed": false,
+      "date": 1660555827480
+    },
+    {
+      "id": 8,
+      "title": "Call mom",
+      "completed": false,
+      "date": 1660555828480
+    },
+    {
+      "id": 9,
+      "title": "Cook dinner",
+      "completed": true,
+      "date": 1660555829480
+    },
+    {
+      "id": 10,
+      "title": "Read a book",
+      "completed": true,
+      "date": 1660555823480
+    },
+    {
+      "id": 11,
+      "title": "Listen to music",
+      "completed": false,
+      "date": 1660555832480
+    },
+    {
+      "id": 12,
+      "title": "Clean up on the table",
+      "completed": true,
+      "date": 1660555333480
+    },
+    {
+      "id": 13,
+      "title": "Do sports",
+      "completed": false,
+      "date": 1660555834480
+    },
+    {
+      "id": 14,
+      "title": "Help my brother",
+      "completed": false,
+      "date": 1660555035480
+    },
+    {
+      "id": 15,
+      "title": "Go to bed on time",
+      "completed": false,
+      "date": 1660555846480
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.todoList {
+	width: 100%;
+	margin: 0 auto;
+	padding: 10px 5px;
+}
+
+.info {
+	margin: 20px auto;
+	font-size: 20px;
+	color: floralwhite;
+}
+
+.itemEnter {
+  transform: translateX(-300%);
+	opacity: 0;
+}
+.itemEnterActive {
+  transform: translateX(0);
+	opacity: 1;
+  transition: all 600ms ease-in;
+}
+.itemExit {
+  transform: translateX(0);
+	opacity: 1;
+}
+.itemExitActive {
+  transform: translateX(300%);
+	opacity: 0;
+  transition: all 600ms ease-in;
+}
