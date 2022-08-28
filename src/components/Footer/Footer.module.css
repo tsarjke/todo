@@ -1,0 +1,36 @@
+.content {
+	padding: 10px 0;
+	border-top: 1px solid #1b198f;
+}
+
+.text {
+	text-align: center;
+	font-size: 1.2rem;
+	margin: 0 0 0.5rem 0;
+	color: #000;
+}
+
+@media (min-width: 768px) {
+	.content {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 12px 0;
+	}
+
+	.text {
+		margin: 0 1rem 0 0;
+	}
+}
+
+@media (min-width: 1024px) {
+	.text {
+		font-size: 1.5rem;
+	}
+}
+
+@media (min-width: 1440px) {
+	.content {
+		padding: 15px 0;
+	}
+}
